@@ -1,2 +1,3 @@
-# Data-Analysis
-These are mine python codes that are used in order to solve exercises from Data Analysis course
+# Advanced Data Analysis
+
+This repository contains python task exercises with solutions, that are presented at University as part of Advance Data Analysis course for the master program "Computer Simulation in Science".
